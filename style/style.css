@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid img{
+    height: 7rem;
+}
+
+.hero-bg{
+    background-image: url(../image/pets-3715734_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 80%;
+}
+
+.text h2, .pet-section{
+    color: saddlebrown;
+}
+
+.pet-img img {
+    width: 10rem;
+    height: 11rem;
+}
+
+.testifier img {
+    width: 8rem;
+    height: 8rem;
+}
+
+.gallery-section{
+    height: 50vh;
+    color: saddlebrown;
+    background-image: url(../image/pet-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0 40%;
+    border: 5px solid bisque;
+}
+
+footer{
+    background-color: #00bfff;
+}
+
+/* .newsletter-section{
+    position: absolute;
+    bottom: 0;
+} */
