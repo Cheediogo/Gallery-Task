@@ -81,7 +81,7 @@ pets.forEach(e => {
         <div class="col-6 col-md-3 py-3">
             <div class=" img-gallery border border-1">
                 <div class="pet-image pb-3">
-                    <img src="/image/${e.pets_img}.jpg" alt="image" class="img-fluid">
+                    <img src="./image/${e.pets_img}.jpg" alt="image" class="img-fluid">
                 </div>
                 <div class="text-center">
                     <p class="text-secondary">${e.type}</p>
